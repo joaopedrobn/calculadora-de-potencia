@@ -44,9 +44,5 @@ Este projeto consiste em um programa que permite ao usuário calcular a potênci
 - 📜 `calculadora_potencia.cpp`: Código-fonte principal do programa.
 - 📄 `README.md`: Este arquivo de documentação.
 
-## 📜 Licença
-
-Este projeto está sob a licença MIT. Para mais detalhes, consulte o arquivo [LICENSE](LICENSE).
-
 ---
 📌 Para mais informações, visite o repositório original: [calculadora-de-potencia](https://github.com/joaopedrobn/calculadora-de-potencia).
